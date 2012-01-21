@@ -1,0 +1,1 @@
+Up Arrow: changes colour of the particles
