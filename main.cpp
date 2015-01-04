@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include "main.h"
 #include <stdlib.h>
-#include <GLUT/glut.h>
+#include "GLUT/glut.h"
 #include "Particle.h"
 #include "Box.h"
 

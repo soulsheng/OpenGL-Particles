@@ -8,7 +8,7 @@
  */
 
 #include "Box.h"
-#include <GLUT/glut.h>
+#include "GLUT/glut.h"
 
 // Moves the box 512 pixels every second. When it reaches teh other side of the window
 // it goes back to the start.

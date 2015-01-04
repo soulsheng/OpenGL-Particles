@@ -9,7 +9,7 @@
 
 #include "Particle.h"
 #include <stdlib.h>
-#include <GLUT/glut.h>
+#include "GLUT/glut.h"
 
 // Constructor for a particle.
 void Particle::CreateParticle()
